@@ -1,31 +1,28 @@
-==> Uma ferramenta desenvolvida em python
-para enviar emails repetidamente!
+# EmailBomber
+—> Uma ferramenta desenvolvida em python para enviar emails repetidamente!
 
-==> Com essa ferramenta, você poderá:
+—> Com essa ferramenta, você poderá:
 
 -Decidir o título do e-mail
 
 -Decidir a mensagem do e-mail
 
--Enviar quantos e-mails quiser para o e-mail que querer!
+-Enviar quantos e-mails quiser para o e-mail que querer! 
 
+### Installation:
 
-==>𝗜𝗡𝗦𝗧𝗔𝗟𝗔ÇÃ𝗢 (𝗧𝗘𝗥𝗠𝗨𝗫📲)
+> - ___pkg update && pkg upgrade -y___
 
-$ pkg update && pkg update
+> - ___pkg install git -y___
 
-$ pkg install git
+> - ___pkg install python -y___
 
-$ pkg install python
+> - ___pkg install python2 -y___
 
-$ pkg install python2
+> - ___git clone https://github.com/SweetDoShock/emailbomber___
 
-$ git clone github.com/SweetDoShock/emailbomber
+> - ___cd emailbomber___
 
-$ cd emailbomber
+> - ___chmod +x *___
 
-$ chmod +x *
-
-$ python3 gmailFlood.py
-
-
+> - ___python3 gmailFlood.py___
